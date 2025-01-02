@@ -120,7 +120,7 @@ def normalize_name(name):
 def main():
     st.title("DIABLO SERIES - ULTIMATE SUPERVISION TOOLS 👹")
 
-    st.subheader("""GIGA CALIFICATION CHECKER!!! 🛫""")
+    st.subheader("""GIGA CALIFICATOR - RUBIC CHECKER!!! 🛫""")
 
     course_ids_input = st.text_area("IDs de los cursos (separados por coma, espacio o salto de línea):", "")
 
